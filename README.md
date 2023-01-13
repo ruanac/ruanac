@@ -1,7 +1,7 @@
 ### Olá eu sou a Ruana Carolina 
 
-- 🔭 Cientista em formação
-- 🌱 Estou estudando Data Science, Python, SQL, Typescript 
+- 🔭 Cientista em formação (Data Science | Bioinformática)
+- 🌱 Estou estudando Python, SQL, Javasript, Typescript, Power Bi
 - 😄 Ela/dela
 -->
 
@@ -17,9 +17,9 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/ruanac_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ruanacarolina08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruana-carolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/ruanac_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
