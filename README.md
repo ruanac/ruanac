@@ -1,7 +1,7 @@
 ### Olá eu sou a Ruana Carolina 
 
 - 🔭 Cientista em formação (Bioinformática, Python, Shell script, JavaScript)
-- 🌱 Estou estudando R, SQL e Typescript
+- 🌱 Estou estudando R e SQL 
 - 😄 Ela/dela
 -->
 
